@@ -1,4 +1,4 @@
-# Bomber-RebornHow to use it: follow this path and choose your OC or ARM: C:\Users\1\Desktop\infinite-bomber-reborn\builds
+# Bomber-Reborn
 How to use it: follow this path and choose your OC or ARM: C:\Users\1\Desktop\infinite-bomber-reborn\builds
 Also, do not forget about your x64 or x86 bit depth.
 Use Tor for your own security as well.
